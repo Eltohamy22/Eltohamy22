@@ -1,4 +1,4 @@
-<H1>                Hi there 👋,  My name is Mostafa Eltohamy </H1>
+<H2>                Hi there 👋,  My name is Mostafa Eltohamy </H2>
 <h4>   I'm a self-taught future front-end developer with a passion for learning a lot about web development </h4>
 
      
