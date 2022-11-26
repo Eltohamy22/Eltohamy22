@@ -1,12 +1,12 @@
 <H1>                Hi there 👋,  My name is Mostafa Eltohamy </H1>
-<h2>   I'm a self-taught future front end developer with passion to learn alot about web developement </h2>
+<h4>   I'm a self-taught future front end developer with passion to learn alot about web developement </h4>
 
      
 - 🔭 I currently finished HTML CSS course in udemy from  the great mentor john Smigla  
-- i started to use frontend mentor cummunity and im very happy such platform exists as it the best way to practice and get live evaluation.
+- ✨ i started to use frontend mentor cummunity and im very happy such platform exists as it the best way to practice and get live evaluation.
 - 🌱 I’m currently learning JavaScript 
 <!-- 
-**Eltohamy22/Eltohamy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Eltohamy22/Eltohamy22** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 
