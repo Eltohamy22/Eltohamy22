@@ -1,5 +1,5 @@
-### Hi there 👋,  My name is Mostafa Eltohamy 
-<h2> I'm a self-taught future front end developer with passion to learn alot about web developement </h2>
+<H1>                Hi there 👋,  My name is Mostafa Eltohamy </H1>
+<h2>   I'm a self-taught future front end developer with passion to learn alot about web developement </h2>
 
      
 - 🔭 I currently finished HTML CSS course in udemy from  the great mentor john Smigla  
