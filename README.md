@@ -1,5 +1,5 @@
-<H2>                Hi there 👋,  My name is Mostafa Eltohamy </H2>
-<h4>   I'm a self-taught future front-end developer with a passion for learning a lot about web development </h4>
+                       <H2>Hi there 👋,  My name is Mostafa Eltohamy </H2>
+<h4>I'm a self-taught future front-end developer with a passion for learning a lot about web development </h4>
 
      
 - 🔭 I currently finished HTML CSS course at Udemy from  the great mentor john Smigla  
