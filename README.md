@@ -1,13 +1,14 @@
-### Hi there 👋
+### Hi there 👋 My name is Mostafa Eltohamy im a self-taught future front end developer with passion to learn alot about web developement 
 
-     My name is Mostafa Eltohamy im a self-taught future front end developer with passion to learn alot about web developement 
+     
 - 🔭 I currently finished HTML CSS course in udemy from  the great mentor john Smigla  
 - i started to use frontend mentor cummunity and im very happy such platform exists as it the best way to practice and get live evaluation.
+- 🌱 I’m currently learning JavaScript 
 <!-- 
 **Eltohamy22/Eltohamy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🌱 I’m currently learning JavaScript 
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
